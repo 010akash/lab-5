@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fruits>
+  <actor>
+    <name>Salman Khan</name>
+    <color>Bajrangi Bhaijaan</color>
+  </actor>
+  <actor>
+    <name>Amir Khan</name>
+    <color>Dangal</color>
+  </actor>
+
+  <actor>
+    <name>Amitabh Bachan</name>
+    <color>sholey</color>
+  </actor>
+  <actor>
+    <name>Kartik Aryan</name>
+    <color>Bhool bhulaiya</color>
+  </actor>
+  <actor>
+    <name>Shah Ruk Khan</name>
+    <color>Pathan</color>
+  </actor>
+  <actor>
+    <name>Ronit Roy</name>
+    <color>Boss</color>
+  </actor>
+  <actor>
+    <name>Akshay Kumar</name>
+    <color>PrathviRaj</color>
+  </actor>
+</fruits>
